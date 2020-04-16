@@ -1,0 +1,10 @@
+table {
+    width: 100%;
+  }
+
+  th{
+    text-align: center;
+  }
+  ng-container{
+      text-align: justify;
+  }
